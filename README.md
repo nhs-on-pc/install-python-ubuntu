@@ -6,5 +6,7 @@ sudo apt-get install python3-distutils<br>
 sudo apt install python3-pip
 
 2. UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.<br>
-
+https://www.pyimagesearch.com/2015/08/24/resolved-matplotlib-figures-not-showing-up-or-displaying/ <br>
+in venv: <br>
+python setup.py install
 
