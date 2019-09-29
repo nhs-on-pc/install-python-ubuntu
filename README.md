@@ -1,7 +1,7 @@
 # install-python-ubuntu
 fix error while install python, pycharm and packages on ubuntu
 
-1. No modules name: distutils.core while create virtual environments or install packages
+1. No modules name: distutils.core while create virtual environments or install packages<br>
 sudo apt-get install python3-distutils
 <br>
 sudo apt install python3-pip
