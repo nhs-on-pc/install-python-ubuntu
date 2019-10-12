@@ -22,3 +22,8 @@
 3. Kill pulseaudio with "pulseaudio -k"
 4. Reset your alsa volume settings with the following command: "sudo /etc/init.d/alsa-utils reset". You will be asked for your password due to using the sudo command.
 5. Start pulseaudio again with "start-pulseaudio-x11".
+
+##5. Reset mực máy in Brother HL-2240D: 
+- Tutorial: https://youtu.be/XECkWU2bRw0
+- Tốt hơn hết là làm với máy tính boot windows
+
