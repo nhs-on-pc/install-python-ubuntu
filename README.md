@@ -27,3 +27,8 @@
 - Tutorial: https://youtu.be/XECkWU2bRw0
 - Tốt hơn hết là làm với máy tính boot windows
 
+##6. Usb cannot eject although completed copy files on Ubuntu:
+- Try ls /media and see if the drive shows there. If it does, sudo umount /media/drivename – douggro
+- https://askubuntu.com/questions/395186/unable-to-eject-safely-unmount-usb-drive
+
+
