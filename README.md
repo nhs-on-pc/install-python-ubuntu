@@ -31,4 +31,8 @@
 - Try ls /media and see if the drive shows there. If it does, sudo umount /media/drivename – douggro
 - https://askubuntu.com/questions/395186/unable-to-eject-safely-unmount-usb-drive
 
+##7. Increase mouse scroll:
+- http://www.webupd8.org/2015/12/how-to-change-mouse-scroll-wheel-speed.html
+
+
 
